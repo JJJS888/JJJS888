@@ -1,10 +1,12 @@
-## Hi there 👋
+# Hola bienvenido 👋
 
 <!--
 **JJJS888/JJJS888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+<p align="center">
+<div style="background-image: url(['https://ruta-de-tu-imagen.com/fondo.jpg'](); padding: 40px; color: white; text-align: center;">
+</p>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
