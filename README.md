@@ -1,5 +1,12 @@
 # Hola bienvenido 👋 soy JJ
-![](https://wallpapers.com/images/high/non-copyrighted-purple-space-giwyzcnvy9m2hvhm.webp)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
+</p>
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475" width="100%" alt="Banner de bienvenida">
+</p>
+
 <!--
 **JJJS888/JJJS888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
