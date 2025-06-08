@@ -3,11 +3,15 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
 </p>
-
+<!--
 ![](imagen/binary-background.jpg)
+-->
 
+![](imagen/gestion_de_Datos.jpg)
 
 ![](imagen/analista_programador.jpg)
+
+
 
 
 <!--
