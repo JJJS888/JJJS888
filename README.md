@@ -4,7 +4,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
 </p>
 
-![](https://wallpapers.com/images/high/binary-background-5l4ev2tlcpp76iad.webp)
+![](https://wallpapers.com/images/high/binary-background-5l4ev2tlcpp76iad.webp?raw=true)
 
 <!--
 <p align="center">
