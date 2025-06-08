@@ -7,6 +7,9 @@
 ![](imagen/binary-background.jpg)
 
 
+![](imagen/analista_programador.jpg)
+
+
 <!--
 **JJJS888/JJJS888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
